@@ -6,7 +6,7 @@ VenShark is a lightweight tool for quickly checking the existence and registrati
 
 - **Fast**: Swiftly determine if a website exists and is registered.
 - **Reliable**: Utilizes robust DOS logic and lookup algorithms.
-- **Easy to Use**: Simple command-line interface for quick website checks.
+- **Easy to Use**: Visit the VenShark website and enter the URL of the website you want to check.
 - **Flexible**: Suitable for developers, security analysts, and website administrators.
 
 ## Installation
