@@ -1,0 +1,20 @@
+{
+  "name": "venshark",
+  "version": "1.0.0",
+  "description": "Swiftly check website existence &amp; registration status. DOS logic &amp; lookup algorithms ensure reliability. Ideal for developers &amp; security analysts.",
+  "main": "placeholder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zirmith/VenShark.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zirmith/VenShark/issues"
+  },
+  "homepage": "https://github.com/Zirmith/VenShark#readme"
+}
